@@ -10,7 +10,7 @@ let shops = require('./shop.json')
 app.get('/all', (req, res) => {
 
 	console.log("Requested all shops")
-	res.send({ shops: shops })
+	res.send(shops)
 }
 )
 app.get('/:id', (req, res) => {
