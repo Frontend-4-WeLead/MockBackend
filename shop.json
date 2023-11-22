@@ -1,0 +1,242 @@
+[
+	{
+		"name": "Τα... φιλαράκια - Νέος Κόσμος",
+		"category": "Σουβλακια",
+		"rating": 4.3,
+		"image_url": "https://cdn.e-food.gr/cdn-cgi/image/f=auto/shop/1053/cover?t=1654590468&platform=web",
+		"products": [
+			{
+				"title": "Σουβλακι",
+				"price": 2.5
+			},
+			{
+				"title": "Πατατες",
+				"price": 1.5
+			},
+			{
+				"title": "Μπυρα",
+				"price": 2.5
+			}
+		]
+	},
+	{
+		"name": "Ο γιατρός της πείνας - Νέος Κόσμος",
+		"category": "Σουβλακια",
+		"rating": 4.2,
+		"image_url": "https://cdn.e-food.gr/cdn-cgi/image/f=auto/shop/4909426/cover?t=1682059191&platform=web",
+		"products": [
+			{
+				"title": "Σουβλακι",
+				"price": 2.5
+			},
+			{
+				"title": "Πατατες",
+				"price": 1.5
+			},
+			{
+				"title": "Μπυρα",
+				"price": 2.5
+			}
+		]
+	},
+	{
+		"name": "everest - Γούβα",
+		"category": "Καφεδες",
+		"rating": 4.4,
+		"image_url": "https://cdn.e-food.gr/cdn-cgi/image/f=auto/shop/1260377/cover?t=1675675804&platform=web",
+		"products": [
+			{
+				"title": "Freddo Espresso",
+				"price": 2.5
+			},
+			{
+				"title": "Cappuccino",
+				"price": 1.5
+			},
+			{
+				"title": "Μπυρα",
+				"price": 2.5
+			}
+		]
+	},
+	{
+		"name": "Transit cafe - Παγκράτι",
+		"category": "Καφεδες",
+		"rating": 5.0,
+		"image_url": "https://cdn.e-food.gr/cdn-cgi/image/f=auto/shop/4076041/cover?t=1647428522&platform=web",
+		"products": [
+			{
+				"title": "Freddo Espresso Μετριος",
+				"price": 2.5
+			},
+			{
+				"title": "Frappe",
+				"price": 1.5
+			},
+			{
+				"title": "Μπυρα",
+				"price": 2.5
+			}
+		]
+	},
+	{
+		"name": "Real Pizza - Άγιος Αρτέμιος",
+		"category": "Pizza",
+		"rating": 4.6,
+		"image_url": "https://cdn.e-food.gr/cdn-cgi/image/f=auto/shop/79454/cover?t=1678183581&platform=web",
+		"products": [
+			{
+				"title": "Πιτζα",
+				"price": 2.5
+			},
+			{
+				"title": "Πατατες",
+				"price": 1.5
+			},
+			{
+				"title": "Μπυρα",
+				"price": 2.5
+			}
+		]
+	},
+	{
+		"name": "Zeas pizza - Νέα Σμύρνη",
+		"category": "Pizza",
+		"rating": 4.5,
+		"image_url": "https://cdn.e-food.gr/cdn-cgi/image/f=auto/shop/1469187/cover?t=1664957673&platform=web",
+		"products": [
+			{
+				"title": "Bruschetta",
+				"price": 2.5
+			},
+			{
+				"title": "Pizza",
+				"price": 1.5
+			},
+			{
+				"title": "Μπυρα",
+				"price": 2.5
+			}
+		]
+	},
+	{
+		"name": "Texans Wings & Burgers - Καλλιθέα",
+		"category": "Burgers",
+		"rating": 4.6,
+		"image_url": "https://cdn.e-food.gr/cdn-cgi/image/f=auto/shop/5260487/cover?t=1649688284&platform=web",
+		"products": [
+			{
+				"title": "Burger",
+				"price": 2.5
+			},
+			{
+				"title": "Πατατες",
+				"price": 1.5
+			},
+			{
+				"title": "Μπυρα",
+				"price": 2.5
+			}
+		]
+	},
+	{
+		"name": "Home Burger - Άγιος Δημήτριος",
+		"category": "Burgers",
+		"rating": 4.4,
+		"image_url": "https://cdn.e-food.gr/cdn-cgi/image/f=auto/shop/1807/cover?t=1647428522&platform=web",
+		"products": [
+			{
+				"title": "Πατατες",
+				"price": 2.5
+			},
+			{
+				"title": "Burger",
+				"price": 1.5
+			},
+			{
+				"title": "Μπυρα",
+				"price": 2.5
+			}
+		]
+	},
+	{
+		"name": "Taiyo - Κουκάκι",
+		"category": "Sushi",
+		"rating": 4.5,
+		"image_url": "https://cdn.e-food.gr/cdn-cgi/image/f=auto/shop/6776698/cover?t=1697802406&platform=web",
+		"products": [
+			{
+				"title": "Spring Rolls",
+				"price": 2.5
+			},
+			{
+				"title": "Salmon maki roll",
+				"price": 1.5
+			},
+			{
+				"title": "Sake",
+				"price": 2.5
+			}
+		]
+	},
+	{
+		"name": "Noodle Bar - Σύνταγμα",
+		"category": "Sushi",
+		"rating": 4.3,
+		"image_url": "https://cdn.e-food.gr/cdn-cgi/image/f=auto/shop/110658/cover?t=1647428522&platform=web",
+		"products": [
+			{
+				"title": "Τηγανητό ρύζι Ταϊλάνδης",
+				"price": 2.5
+			},
+			{
+				"title": "Noodles Σινγκαπούρης",
+				"price": 1.5
+			},
+			{
+				"title": "Μπυρα",
+				"price": 2.5
+			}
+		]
+	},
+	{
+		"name": "Beat - Φιξ",
+		"category": "Κρεπες",
+		"rating": 4.3,
+		"image_url": "https://cdn.e-food.gr/cdn-cgi/image/f=auto/shop/3820789/cover?t=1647428522&platform=web",
+		"products": [
+			{
+				"title": "Αλμυρή κρέπα",
+				"price": 2.5
+			},
+			{
+				"title": "Γλυκιά κρέπα",
+				"price": 1.5
+			},
+			{
+				"title": "Μπυρα",
+				"price": 2.5
+			}
+		]
+	},
+	{
+		"name": "Mr Crepito - Παγκράτι",
+		"category": "Κρεπες",
+		"rating": 4.7,
+		"image_url": "https://cdn.e-food.gr/cdn-cgi/image/f=auto/shop/3811125/cover?t=1647428522&platform=web",
+		"products": [
+			{
+				"title": "Γλυκιά κρέπα",
+				"price": 2.5
+			},
+			{
+				"title": "Αλμυρή κρέπα",
+				"price": 1.5
+			},
+			{
+				"title": "Μπυρα",
+				"price": 2.5
+			}
+		]
+	}
+]
